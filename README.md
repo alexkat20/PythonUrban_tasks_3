@@ -1,3 +1,6 @@
+# TASKS:
+https://colab.research.google.com/drive/1yHRUzvOaEODhGNUKqWK-GqDU_swBeILz?usp=sharing#scrollTo=Ae_6bDglgMCw
+
 # AnswerTemplate
 Шаблон репозитория для отправки заданий
 
